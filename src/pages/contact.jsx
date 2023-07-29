@@ -1,5 +1,5 @@
 import React from "react";
-import Group from "../image/group.png";
+import Group from "../image/group.png"
 import './contact.css'
 
 export const Contact = () => {
