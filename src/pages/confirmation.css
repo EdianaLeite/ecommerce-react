@@ -1,0 +1,33 @@
+.confirmation-container {
+  width: 60%;
+  margin: 7rem auto;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+}
+
+.confirmation-hello {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.confirmation-text {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.back-btn {
+  background-color: #DE5B72;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.back-btn:hover {
+  background-color: #C43A50;
+}
